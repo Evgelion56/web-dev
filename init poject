@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+<!-- служебная часть -->
+
+<head>
+  <!-- заголовок страницы -->
+  <title>Хошино Руби  — айдол</title>
+  <!-- настраиваем служебную информацию для браузеров -->
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- загружаем Бутстрап -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+    integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <style type="text/css">
+    img {
+      max-width: 100%;
+      max-height: 100%;
+    }
+    source {
+      color: #d60d61
+    }
+
+     h1 {
+      font-size: 50px;
+      margin-top: 30px;
+      margin-bottom: 20px;
+      color: rgb(158, 26, 46);
+     }
+
+    h2 {
+      margin-top: 10px;
+      margin-bottom: 10px;
+      color: crimson;
+    }
+
+    p {
+      font-size: 30px;
+      color: rgb(154, 8, 59);
+    }
+    .button {
+  background-color: #d60d61; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+  </style>
+</head>
+
+<body style="background-color:rgb(255, 204, 218);">
+  
+      </div><h1 style="background-color:rgb(255, 109, 150); text-align:center; font-family:verdana;">&#128507;<b> •∆|Хошино Руби|∆• </b>&#128507;</h1>
+       </div><p style="background-color:rgb(255, 60, 115); text-align:center; font-family:verdana;"><b> ~•°|История|°•~</b></p>
+      </div>
+    </div>
+  </div>
+  <div class="container">
+    <div class="row">
+      <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6">
+        <p style="font-size:20px;">В предыдущей жизни она была известна как Сарина Тендоджи, неизлечимо больная пациентка, за которой ухаживал Горо Амамия. После её смерти она перевоплотилась в ребёнка своего любимого кумира, Ай Хосино. 1
+
+          Вдохновлённая деятельностью своей матери, Руби мечтает стать идолом. Чтобы осуществить эту мечту, она работает с Strawberry Productions над возрождением B-Komachi при поддержке своих друзей. 5
+          
+          Несмотря на свой успех, Руби изображена как сложный персонаж, который постоянно сталкивается с давлением со стороны своей команды управления и общественности. Она борется за то, чтобы сбалансировать свои личные желания и требования своей карьеры, часто ощущая себя в ловушке из-за возложенных на неё ожиданий. 2
+          
+          На протяжении всего сериала путь Руби отмечен моментами самооткрытия и роста, когда она преодолевает трудности развлекательной индустрии. Она формирует значимые отношения с другими идолами и выучивает ценные уроки о важности оставаться верной себе перед лицом невзгод.</p>
+        </div>
+      </audio>      
+      <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6">
+        <img src="https://i.pinimg.com/736x/c9/46/bf/c946bfdf32cacf645059ea015ff12439.jpg">
+      </div>
+      <iframe width="420" height="345" src="https://youtu.be/DalQIefPSQk?si=zHio8oUTFkTw53_9">
+      </iframe>      
+     </div><audio controls style="background-color:rgb(255, 0, 72);" width="200" height="240" controls >
+        <source src="Опининг" type="audio/ogg">
+        <source src="https://rus.hitmotop.com/get/music/20230709/Neizvesten_-_Oshi_no_Ko_Zvjozdnoe_ditya_Klip_polnojj_versii_openinga_76307963.mp3" type="audio/mpeg">
+    </div>
+  </div>
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <h2>Чего она добилась</h2>
+      </div>
+    </div>
+  </div>
+  <div class="container">
+    <div class="row">
+      <div class="col-12 col-sm-12 col-md-6 col-lg-3 col-xl-3">
+        <p><a href="Ссылка на статью">Заголовок статьи</a></p>
+        <p><a href="http://thecode.local/electrician/">Айдол</a></p>
+      </div>
+    </div>
+  </div>
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <h2>Контакты для связи</h2>
+      </div>
+    </div>
+  </div>
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <p>Телефон: +7 (000) 000-00-00</p>
+        <p>Почта: <a href="mailto: examples@gmail.com">examples@gmail.com</a></p>
+        <p>Скайп: examples</p>
+        <p>Телеграм: @examples</p>
+      </div>
+    </div><button class="button button2">узнать больше</button>
+  </div>
+  <div>
+  </div>
+</body>
+<!-- конец всей страницы -->
+
+</html>
