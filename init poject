@@ -3,7 +3,7 @@
 <!-- служебная часть -->
 
 <head>
-  <!-- заголовок страницы новый-->
+  <!-- заголовок страницы -->
   <title>Хошино Руби  — айдол</title>
   <!-- настраиваем служебную информацию для браузеров -->
   <meta charset="utf-8">
@@ -54,7 +54,8 @@
 </head>
 
 <body style="background-color:rgb(255, 204, 218);">
-  
+    </div>
+  </div> 
       </div><h1 style="background-color:rgb(255, 109, 150); text-align:center; font-family:verdana;">&#128507;<b> •∆|Хошино Руби|∆• </b>&#128507;</h1>
        </div><p style="background-color:rgb(255, 60, 115); text-align:center; font-family:verdana;"><b> ~•°|История|°•~</b></p>
       </div>
@@ -74,9 +75,9 @@
       </audio>      
       <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6">
         <img src="https://i.pinimg.com/736x/c9/46/bf/c946bfdf32cacf645059ea015ff12439.jpg">
-      </div>
-      <iframe width="420" height="345" src="https://youtu.be/DalQIefPSQk?si=zHio8oUTFkTw53_9">
-      </iframe>      
+      </div><video controls>
+        <source src="[AniMaunt] Oshi no Ko - 01.mp4" type="video/mp4">
+        <source src="[AniMaunt] Oshi no Ko - 01.ogg" type="video/ogg">     
      </div><audio controls style="background-color:rgb(255, 0, 72);" width="200" height="240" controls >
         <source src="Опининг" type="audio/ogg">
         <source src="https://rus.hitmotop.com/get/music/20230709/Neizvesten_-_Oshi_no_Ko_Zvjozdnoe_ditya_Klip_polnojj_versii_openinga_76307963.mp3" type="audio/mpeg">
